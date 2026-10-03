@@ -99,7 +99,7 @@ return {
                 Background = RGB(24, 24, 27),
                 Secondary  = RGB(40, 40, 45),
                 AccentOff  = RGB(58, 58, 64),
-                Text       = RGB(240, 240, 240),
+                Text       = RGB(255, 185, 30),
                 TextDim    = RGB(160, 160, 165),
                 Stroke     = RGB(90, 90, 96),
                 Accent     = RGB(255, 255, 255),
